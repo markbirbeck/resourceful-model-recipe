@@ -1,0 +1,26 @@
+{
+  "name": "resourceful-model-recipe",
+  "version": "0.0.0",
+  "description": "Resourceful model declarations for recipes.",
+  "keywords": [
+    "model",
+    "recipes",
+    "resourceful"
+  ],
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "resourceful": "markbirbeck/resourceful"
+  },
+  "devDependencies": {
+    "mocha": "2.0.1",
+    "should": "4.4.1"
+  },
+  "main": "./lib",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "NODE_ENV=test mocha"
+  }
+}
