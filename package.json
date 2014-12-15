@@ -1,6 +1,6 @@
 {
   "name": "resourceful-model-recipe",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Resourceful model declarations for recipes.",
   "keywords": [
     "model",
